@@ -1,4 +1,4 @@
-# L1sd0rker
+# Dorker
 
 Dorker, programa utilizado para automatizar pesquisas em buscadores, faz uso de alguns filtros.
  
@@ -15,7 +15,7 @@ Dorker, programa utilizado para automatizar pesquisas em buscadores, faz uso de 
 
 							Coded by Mr_h1l4n9
 								My GitHub: github.com/Mrh1l4n9
-								Anonymous Cyber Team
+								Anonnymous Cyber Team
 
 
 		  -l  -  List of dorks.
